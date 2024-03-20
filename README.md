@@ -10,55 +10,43 @@ Data Source: Kaggle (https://www.kaggle.com/ankitverma2010/ecommerce-customer-ch
 
  ## **Analysis**
 
-<img width="1169" alt="Screenshot 2024-03-18 at 3 39 39 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/28abfd7f-c846-4eb6-a2bc-a77fb505efc6">
+<img width="1158" alt="Screenshot 2024-03-20 at 11 38 20 AM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/2619e1af-b816-4483-8549-13ca1a7763d3">
 
-<img width="1155" alt="Screenshot 2024-03-18 at 3 46 01 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/5c86dacf-30a2-4065-ad67-81189c80c042">
+<img width="1161" alt="Screenshot 2024-03-20 at 11 38 33 AM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/f3c32066-8eb5-449a-8dfc-a3c40a49de4b">
 
-<img width="1166" alt="Screenshot 2024-03-18 at 3 40 23 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/dc2e64d6-d8e5-42e5-bfa7-6f8d13513f6d">
+<img width="1167" alt="Screenshot 2024-03-20 at 11 38 43 AM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/ae00fa0d-0b73-40c5-9726-a4ac308fb0fa">
 
-<img width="1163" alt="Screenshot 2024-03-18 at 3 40 38 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/bb52e652-b883-4dd6-b8f1-120b0113cb1b">
+<img width="1165" alt="Screenshot 2024-03-20 at 11 38 56 AM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/3ef826ec-5e5a-48ae-b608-85ffec7da054">
 
-<img width="1161" alt="Screenshot 2024-03-18 at 3 41 09 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/bac23f35-2a59-4d35-934f-74cf24ebe6ca">
+<img width="1165" alt="Screenshot 2024-03-20 at 11 39 08 AM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/e2228c8d-d1e2-4b95-a78f-37b716763aa2">
 
-<img width="1164" alt="Screenshot 2024-03-18 at 3 41 23 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/ecb3d11a-e2b1-4bae-b0d0-b7959edb2841">
+<img width="1164" alt="Screenshot 2024-03-20 at 11 39 21 AM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/69383d55-621b-457e-be8d-6c7fb3526349">
 
-<img width="1164" alt="Screenshot 2024-03-18 at 3 47 43 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/0b756194-fefb-49c5-a7c4-278084f741a2">
+<img width="1163" alt="Screenshot 2024-03-20 at 11 39 33 AM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/be47b8b4-cc3d-47d7-807e-85c8304f520f">
 
-<img width="1164" alt="Screenshot 2024-03-18 at 3 41 36 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/203f4fa0-5a75-4bab-b503-d8c904073e16">
+<img width="1163" alt="Screenshot 2024-03-20 at 11 39 57 AM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/8c68cfb0-93cd-45cb-942a-e612b501338d">
 
-<img width="1162" alt="Screenshot 2024-03-18 at 3 48 17 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/09cdce81-1aa0-4489-b802-2e84a43ad925">
+<img width="1164" alt="Screenshot 2024-03-20 at 11 40 10 AM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/4fbad1e9-ea58-4af8-8f9e-8aed5a7f7224">
 
-<img width="1162" alt="Screenshot 2024-03-18 at 3 42 03 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/d567e08a-56c7-4e47-81e3-31caa0c11795">
+<img width="1165" alt="Screenshot 2024-03-20 at 11 40 24 AM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/ba43838e-309b-492f-a576-cc2135483910">
 
-<img width="1167" alt="Screenshot 2024-03-18 at 3 42 23 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/3beaaf82-c06f-425d-a411-668d6a4841a6">
+<img width="1169" alt="Screenshot 2024-03-20 at 11 40 35 AM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/6d60a0d8-27c2-4f64-a88f-5d18ec866612">
 
-<img width="1166" alt="Screenshot 2024-03-18 at 3 42 56 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/e7f7e4b6-4688-400a-a9b0-f1c93f9a51c4">
+<img width="1166" alt="Screenshot 2024-03-20 at 11 40 49 AM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/a11181be-e6d4-46b9-a327-8822fd794b23">
 
-<img width="1162" alt="Screenshot 2024-03-18 at 3 43 22 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/9b629c93-6b66-4085-9701-d9979c461cdb">
+<img width="1162" alt="Screenshot 2024-03-20 at 11 41 02 AM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/e7bfa58e-ca60-4edb-955f-ad5c5b46c259">
 
-<img width="1165" alt="Screenshot 2024-03-18 at 3 43 40 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/f420535f-1f3c-45f3-b5ee-18f82c762826">
+<img width="1166" alt="Screenshot 2024-03-20 at 11 41 17 AM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/193486ae-c0fc-4f45-bfa6-93247f3f254b">
 
-<img width="1160" alt="Screenshot 2024-03-18 at 3 43 57 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/cd8b8cee-1d0d-4856-9c77-f2f1b71d7b93">
+<img width="1165" alt="Screenshot 2024-03-20 at 11 41 29 AM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/8b6b89f4-28a9-440e-9463-5515afe80a00">
 
-<img width="1166" alt="Screenshot 2024-03-18 at 3 44 10 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/e5335b57-baa4-4000-a212-29ee510e7024">
+<img width="1161" alt="Screenshot 2024-03-20 at 11 41 43 AM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/151eb06f-6c12-45d7-8857-dcf542b79508">
 
-<img width="1162" alt="Screenshot 2024-03-18 at 3 44 40 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/60a6239e-da81-46e9-9ce5-77ff7a354e9f">
+<img width="1166" alt="Screenshot 2024-03-20 at 11 41 56 AM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/b127b144-5d41-4f69-8290-c6d6ab058d13">
 
-<img width="1166" alt="Screenshot 2024-03-18 at 3 44 53 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/d60e57ab-e560-4ae6-b58a-70cdc8b3dcd3">
+<img width="1165" alt="Screenshot 2024-03-20 at 11 42 07 AM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/c690c05d-32f1-4459-9fe3-af6f86f02844">
 
-<img width="1167" alt="Screenshot 2024-03-18 at 3 45 14 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/967f27c6-83f3-4f43-a34b-c4e7a6bcf630">
-
-<img width="1158" alt="Screenshot 2024-03-18 at 3 45 29 PM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/053352c3-ae8c-46c1-851c-d04e16540297">
-
-
-
-
-
-
-
-
-
-
+<img width="1168" alt="Screenshot 2024-03-20 at 11 42 22 AM" src="https://github.com/m1sohail/Churn_Analysis/assets/77760774/96ddc4c2-7fc6-43a2-b7a1-ff69e3bd06db">
 
 
 
